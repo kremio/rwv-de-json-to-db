@@ -1,0 +1,31 @@
+{
+	"uri":"https://domain.tld/path/to/page.html",
+	"title":"Rassistische Beleidigung und Angriff",
+	"description":"Am Samstag gegen 20.45 Uhr geht ein unbekannter Mann in der S2 Richtung Erding zwei Fahrgäste rassistisch an. Ein 35-jähriger Münchner fordert den Unbekannten auf, damit aufzuhören. Dieser schlägt dem Einschreitenden daraufhin ins Gesicht, wodurch dessen Brille durch die geöffneten S-Bahntüren zwischen S-Bahn und Bahnsteig am Stachus fliegt. Der Münchner drückt den rassistischen Angreifer in der S-Bahn gegen eine Glas-Trennscheibe, wobei diese zersplittert. Der Angreifer entfernt sich, die von einem Zeugen informierte Bundespolizei kann den rassistischen Aggressor nicht mehr antreffen.\nAnother paragraph, just for phun\nAnd why not!",
+	"startDate":"2018-09-08T00:00:00.000+02:00",
+	"iso3166_2":"DE-BY",
+	"locations":[
+		{
+			"subdivisions":["Muenchen","BA 01 Altstadt – Lehel"]
+		}
+	],
+	"sources":[
+		{
+			"name":"a.i.d.a.",
+			"publishedDate":null,
+			"url":null
+		},{
+		"name":"Mitteilung der Bundespolizeiinspektion München",
+		"publishedDate":"2018-09-10T00:00:00.000+02:00",
+		"url":null
+		},{
+		"name":"Artikel der „Süddeutschen Zeitung“ (Online-Version, www.sueddeutsche.de)",
+		"publishedDate":"2018-09-10T00:00:00.000+02:00",
+		"url":"http://www.sueddeutsche.de/"
+		}
+	],
+	"motives":["Rassismus"],
+	"contexts":["ÖPNV"],
+	"factums":["Beleidigung/Beschimpfung/Bedrohung","Körperverletzung/versuchte Körperverletzung"],
+	"tags":null
+}
